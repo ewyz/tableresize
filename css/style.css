@@ -1,0 +1,17 @@
+body{
+	background-color: white;
+	text-align:center;
+	padding:55px;
+} 
+.scroll{
+    overflow-x:scroll;
+    max-width:100%;
+    position:relative;
+}
+.dtHorizontalExampleWrapper {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  #dtHorizontalExample th, td {
+    white-space: nowrap;
+  }
