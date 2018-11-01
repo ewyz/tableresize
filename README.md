@@ -13,7 +13,7 @@ Table Dynamics
 3. The table are not save the sort after reload the page
 
 
-Extension:
+# Extension:
 
 
 [![Material Design for Bootstrap](https://mdbootstrap.com/img/Marketing/free/social/jquery/mdb-jquery-free.jpg)](https://mdbootstrap.com/material-design-for-bootstrap/)
